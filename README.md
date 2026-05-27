@@ -146,8 +146,8 @@ Implemented secure cloud file integrations with:
 
 # 🌐 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/ritesh-kumar-a16a4019b)
-* 📧 Email: [your-email@example.com](mailto:Ritesh.Singh16@ibm.com)
+* 💼 LinkedIn: [https://linkedin.com/in/ritesh-kumar-a16a4019b](https://linkedin.com/in/ritesh-kumar-a16a4019b)
+* 📧 Email: [Ritesh.Singh16@ibm.com](mailto:Ritesh.Singh16@ibm.com)
 * 🌍 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
 
 ---
